@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align='center'>
+  <a href="https://github.com/hugoMGSung">
+    <img src=https://capsule-render.vercel.app/api?type=soft&height=300&color=gradient&text=chs491%20Dev%20%20Repo&animation=twinkling&desc=IoT%20Lecture&fontSize=60/>
+  </a>
+</p>
